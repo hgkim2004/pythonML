@@ -1,0 +1,5 @@
+# pythonML
+
+numpy
+sklearn
+pandas
